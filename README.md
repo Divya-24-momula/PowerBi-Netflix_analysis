@@ -49,7 +49,10 @@ The dashboard highlights:
 - Most popular genres  
 - Ratings distribution  
 
-<img width="1880" height="916" alt="Screenshot 2025-08-20 180708" src="https://github.com/user-attachments/assets/06bad07f-03a2-40ab-9e5d-f637b4d1950f" />
+<img width="1905" height="989" alt="Screenshot 2025-08-20 181827" src="https://github.com/user-attachments/assets/fdf351d4-dfc9-4b44-855f-6fc472584233" />
+
+
+
 
 
 
